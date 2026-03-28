@@ -49,8 +49,7 @@ oracle-dba-scripts/
 
 1. Revisa `docs/convenciones.md`.
 2. Lee `docs/como_usarlo.md` para flujo completo.
-3. Usa `docs/revisiones_senior_dba.md` como checklist Senior DBA.
-4. Entra a la categoría que necesitas y ejecuta el script con SQL*Plus o SQLcl.
+3. Entra a la categoría que necesitas y ejecuta el script con SQL*Plus o SQLcl.
 
 ## Convención de nombres
 
